@@ -174,6 +174,6 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Ehoneah Obed - [Github](https://github.com/ehoneahobed) / [Twitter](https://ehoneahobed.com/twitter)
-- Nicks - [Github](https://github.com/nickssilver) / [Twitter](https://twitter.com/_pronicks)
-- Tiffany - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+Ahmed Fouad Lagha - [Github](https://github.com/ahmedfouadlagha) / [Twitter](https://twitter.com/ahmedfouadlagha)
+Tiffany - [Github](https://github.com/) / [Twitter](https://twitter.com/)
 
